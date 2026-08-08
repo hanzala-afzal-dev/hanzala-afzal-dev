@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Full-stack+developer;PHP+%2F+Laravel+%2F+React+%2F+TypeScript;Python+3+%2B+SQL+for+everything+data-shaped" />
-  <img alt="typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=24292F&center=true&vCenter=true&width=600&lines=Full-stack+developer;PHP+%2F+Laravel+%2F+React+%2F+TypeScript;Python+3+%2B+SQL+for+everything+data-shaped" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1200&color=3FB950&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Laravel+%2F+Fast+API+%2F+React+js+%2F+TypeScript+%2F+SQL;Learning+AI+Engineering+%28LLM%2C+Fine-Tuning%2C+RAG%2C+Orchestration%29" />
+  <img alt="typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1200&color=2DA44E&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Laravel+%2F+Fast+API+%2F+React+js+%2F+TypeScript+%2F+SQL;Learning+AI+Engineering+%28LLM%2C+Fine-Tuning%2C+RAG%2C+Orchestration%29" />
 </picture>
 
 Full-stack developer working across PHP/Laravel and React/TypeScript, with Python
