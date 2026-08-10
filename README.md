@@ -4,8 +4,8 @@
 </picture>
 
 Full-stack developer working across PHP/Laravel and React/TypeScript, with Python
-and SQL for everything data-shaped in between. I like building things end-to-end —
-schema design, API routing, and the UI that sits on top of it — and lately I've
+and SQL for everything data-shaped in between. I like building things end-to-end
+schema design, API routing, and the UI that sits on top of it and lately I've
 been looking at how LLM agents fit into normal application architecture rather
 than bolted onto the side of it.
 
@@ -15,7 +15,7 @@ than bolted onto the side of it.
 
 **Currently building**
 
-[AI-CSV](https://github.com/hanzala-afzal-dev/AI-CSV) — an agentic CSV analyst
+[AI-CSV](https://github.com/hanzala-afzal-dev/AI-CSV), an agentic CSV analyst
 (Next.js, LangChain/LangGraph, DuckDB, Qdrant) where the LLM plans and explains,
 and deterministic tools do the actual calculating.
 
