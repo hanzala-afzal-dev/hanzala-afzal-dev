@@ -8,19 +8,21 @@ tuning, RAG and agent orchestration.
 
 ## Technical skills
 
-**Stack:** PHP · Laravel · FastAPI · React · TypeScript · Python · SQL (MySQL, PostgreSQL)
+**Core languages:** PHP · JavaScript · Python
 
-**AI / LLM Engineering:** LangChain · LangGraph · RAG · Embeddings · Vector search · AI agents · Fine tuning
+**Frontend:** React · TypeScript / JavaScript · Tailwind CSS · Vite
 
-**Frontend:** Next.js · Vue · Tailwind CSS · Vite
+**Backend:** Laravel · FastAPI · Node.js
 
-**Databases:** MySQL · PostgreSQL · Redis · DuckDB · Qdrant
-
-**Data and ML:** pandas · NumPy · Matplotlib · Jupyter
+**Databases:** SQL (PostgreSQL, MySQL) · DuckDB · Qdrant
 
 **Testing:** Pest · PHPUnit · PHPStan · Vitest
 
-**Tools:** Git · GitHub Actions · Docker · Composer · npm · Claude Code
+**Tools:** Git · GitHub Actions · Docker · Composer · npm
+
+**Agentic coding tools:** Claude Code · Gemini · GitHub Copilot (AI code review)
+
+**Engineering:** Clean Code · SOLID principles · Spec driven development · Test driven development
 
 ## GitHub activity
 
